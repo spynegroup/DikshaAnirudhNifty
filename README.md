@@ -1,2 +1,2 @@
 # DikshaAnirudhNifty
-BTP
+BTech project
